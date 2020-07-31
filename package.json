@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test package to be built with es6",
   "repository": "https://github.com/trifiasco/trifiasco-es6-npm-pkg",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "type": "module",
   "scripts": {
     "prepublish": "babel src -d lib",
