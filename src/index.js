@@ -1,4 +1,3 @@
-// const chalk = require("chalk");
 import chalk from "chalk";
 
 const response = chalk.bold.green;
