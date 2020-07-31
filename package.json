@@ -1,0 +1,12 @@
+{
+  "name": "trifiasco-es6-pkg",
+  "version": "1.0.0",
+  "description": "test package to be built with es6",
+  "repository": "https://github.com/trifiasco/trifiasco-es6-npm-pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnab Roy",
+  "license": "MIT"
+}
